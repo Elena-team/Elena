@@ -1,5 +1,7 @@
 # Elena Framework
 
+![image](https://github.com/user-attachments/assets/2afdf078-7eea-4b14-8248-e9a7bd307ba6)
+
 Elena is an advanced multi-agent AI framework powered by DeepSeek's state-of-the-art language model technology. Built on DeepSeek's revolutionary Mixture of Experts (MoE) architecture with 671B parameters, Elena delivers exceptional performance while maintaining remarkable efficiency through its innovative token activation system.
 
 ## 🚀 Key Features
